@@ -1,38 +1,35 @@
-**Python Calculator with History **
+# Python Calculator 🧮
 
-A simple GUI calculator built using Python and Tkinter that performs basic arithmetic operations and stores calculation history.
+A simple **Calculator application built using Python and Tkinter**.
+This project provides a graphical user interface (GUI) that allows users to perform basic arithmetic operations easily.
 
-**Features
-**
-Perform basic operations: *+, -, , /
+## Features
 
-Supports decimal numbers
+* Perform basic calculations: **Addition, Subtraction, Multiplication, Division**
+* Support for **decimal numbers**
+* **Calculation history** with scrollable view
+* **Clear display** and **Clear history** options
+* Simple and user-friendly interface
 
-Scrollable history of calculations
+## Technologies Used
 
-Clear display button
+* **Python 3**
+* **Tkinter** (Python GUI library)
 
-Clear history button
+## How to Run
 
-Simple and beginner-friendly interface
+1. Make sure **Python 3** is installed.
+2. Download or clone the repository.
+3. Run the following command in the project folder:
 
-**Technologies Used
-**
-Python 3
-
-Tkinter (GUI library)
-
-**How to Run**
-
-Install Python 3.
-
-Run the following command:
-
+```bash
 python calculator.py
-Purpose
+```
 
-This project was created to practice Python GUI programming using Tkinter and basic event handling.
+## Project Purpose
 
-**License**
+This project was created to practice **Python GUI development using Tkinter** and understand event handling in desktop applications.
 
-Free to use for learning purposes.
+## License
+
+This project is open-source and free to use for learning purposes.
